@@ -1,0 +1,1 @@
+0 0/30 * * * * cd $HOME/dotfiles/scripts/ && ./backup.sh
